@@ -51,7 +51,7 @@ Descriptive Analytics and Data Preprocessing on Sales & Discounts Dataset
 • Reflect on the importance of data preprocessing steps like standardization and one-hot encoding in data analysis and machine learning.
 
 #### Dataset
-[sales_data_with_discounts](sales_data_with_discounts.csv)
+[sales_data_with_discounts]([sales_data_with_discounts.csv](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/sales_data_with_discounts.csv))
 ## 02 - Basic Statistics
 
 Estimation And Confidence Intervals
