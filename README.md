@@ -284,7 +284,7 @@ The main goal of this assignment is to conduct a thorough exploratory analysis o
 
 
 #### Dataset
-Cardiotocographic
+[Cardiotocographic](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Cardiotocographic.csv)
 ## 06 - MLR
 
 ### Assignment Task:
@@ -313,7 +313,7 @@ The dataset consists of the following variables:
 5.Apply Lasso and Ridge methods on the model.
 
 #### Dataset
-ToyotaCorolla - MLR
+[ToyotaCorolla - MLR](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/ToyotaCorolla%20-%20MLR.csv)
 ## 07 - Logistic Regression
 
 ### Data Exploration:
@@ -347,9 +347,9 @@ Detailed deployment instructions are available in the Streamlit Documentation.
 https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app 
 
 #### Dataset
-Titanic_test
+[Titanic_test](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Titanic_test%20LR.csv)
 
-Titanic_train
+[Titanic_train](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Titanic_train%20LR.csv)
 ## 08 - Clustering
 
 Understanding and Implementing K-Means, Hierarchical, and DBSCAN Algorithms
@@ -380,7 +380,7 @@ Plot the clusters with different colours to visualize the separation of data poi
 Evaluate the quality of clustering using internal evaluation metrics such as silhouette score for K-Means and DBSCAN.
 
 #### Dataset
-EastWestAirlines
+[EastWestAirlines](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/EastWestAirlines.xlsx)
 ## 09 - PCA 
 
 ### Task 1: Exploratory Data Analysis (EDA):
@@ -411,7 +411,7 @@ EastWestAirlines
  3. Provide recommendations for when to use each technique based on the analysis conducted.
 
  #### Dataset
- wine
+ [wine](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/wine.csv)
 ## 10 - Association Rules
 
 The Objective of this assignment is to introduce students to rule mining techniques, particularly focusing on market basket analysis and provide hands on experience.
@@ -429,7 +429,7 @@ Pre-process the dataset to ensure it is suitable for Association rules, this may
  • Interpret the results and provide insights into customer purchasing behaviour based on the discovered rules.
 
  #### Dataset
-Online retail
+[Online retail](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Online%20retail.xlsx)
 ## 11 - Recommendation System
 
 ### Data Description:
@@ -473,7 +473,7 @@ Evaluate the recommendation system using appropriate metrics such as precision, 
 Analyze the performance of the recommendation system and identify areas of improvement.
 
 #### Dataset
-anime
+[anime](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/anime.csv)
 ## 12 - EDA 2
 
 ### Objective:
@@ -509,7 +509,7 @@ Given "Adult" dataset, which predicts whether income exceeds $50K/yr based on ce
  • Apply the PPS (Predictive Power Score) to find and discuss the relationships between features. Compare its findings with the correlation matrix.
 
  #### Dataset
- adult_with_headers
+ [adult_with_headers](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/adult_with_headers.csv)
 ## 13 - Decision Tree
 
 ### Objective:
@@ -536,7 +536,7 @@ Analyse the performance of the Decision Tree model using the evaluation metrics 
 Visualize the decision tree structure to understand the rules learned by the model and identify important features.
 
 #### Dataset
-heart_disease
+[heart_disease](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/heart_disease.xlsx)
 ## 14 - Random Forest
 
 ### Dataset Description:
@@ -568,7 +568,7 @@ Analyze any patterns or correlations observed in the data.
 Apply the Bagging and Boosting methods and compare the results.
 
 #### Dataset 
-glass
+[glass](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/glass.xlsx)
 ## 15 -XGBM & LGBM
 
 ### Objective:
@@ -593,9 +593,9 @@ The objective of this assignment is to compare the performance of Light GBM and 
    2. Visualize and interpret the results to identify the strengths and weaknesses of each algorithm.
 
 #### Dataset 
-Titanic_test
+[Titanic_test](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Titanic_test%20XGBM%20%26%20LGBM.csv)
 
-Titanic_train
+[Titanic_train](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Titanic_train%20XGBM%20%26%20LGBM.csv)
 ## 16 - KNN 
 
 ### Objective: 
@@ -612,7 +612,7 @@ Need to Classify the animal type
 7. Visualize the decision boundaries of the classifier.
 
 #### Dataset 
-Zoo
+[Zoo](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Zoo.csv)
 ## 17 - SVM
 
 ### Dataset Selection:
@@ -641,7 +641,7 @@ For this assignment, we'll utilize the widely recognized Mushroom Dataset
    3. Discuss practical implications of SVM in real-world classification tasks.
 
 #### Dataset 
-mushroom
+[mushroom](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/mushroom.csv)
 ## 18 - Neural Networks
 
 Classification Using Artificial Neural Networks with Hyperparameter Tuning on Alphabets Data
@@ -685,7 +685,7 @@ The dataset provided, "Alphabets_data.csv", consists of labeled data suitable fo
     • TensorFlow Documentation
     • Keras Documentation
 #### Dataset 
-Alphabets_data
+[Alphabets_data](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/Alphabets_data.csv)
 
 
 ## 19 - Naive Bayes and Text Mining
@@ -728,7 +728,7 @@ The provided dataset, "blogs_categories.csv", consists of blog posts along with 
     • Reflect on the sentiment analysis results and their implications regarding the content of the blog posts.
 
 #### Dataset 
-blogs.csv
+[blogs.csv](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/blogs.csv)
 ## 20 - Timeseries
 
 ### Objective:
@@ -754,4 +754,4 @@ The dataset contains historical exchange rate with each column representing a di
    3. Conclusion: Summarize the findings and provide insights on which model(s) yielded the best performance for forecasting exchange rates in this dataset.
 
 #### Dataset
-exchange_rate
+[exchange_rate](https://github.com/aravindajai/DataScienceAssignments/blob/Datasets/exchange_rate.csv)
